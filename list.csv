@@ -29,6 +29,7 @@ name,CMC,Type,Color,Set,Collector Number,Rarity,Color Category,status,Finish,may
 "Glory",5,"Creature - Incarnation",W,"dmr","264",rare,White,Owned,Foil,false,,,"","",107213
 "Timeless Dragon",5,"Creature - Dragon",W,"mh2","388",rare,White,Owned,Non-foil,false,,,"","",91049
 "Exalted Angel",6,"Creature - Angel",W,"p30a","10",rare,White,Owned,Foil,false,,,"","",
+"Serra the Benevolent",4,"Legendary Planeswalker - Serra",W,"pf25","1",mythic,White,Not Owned,,false,,,"","",
 "Condemn",1,"Instant",W,"rvr","304",uncommon,White,Owned,Non-foil,false,,,"","",120185
 "Path to Exile",1,"Instant",W,"tsr","299",special,White,Owned,Non-foil,false,,,"","",86975
 "Swords to Plowshares",1,"Instant",W,"dmr","275",uncommon,White,Owned,Non-foil,false,,,"","",107235
@@ -46,7 +47,6 @@ name,CMC,Type,Color,Set,Collector Number,Rarity,Color Category,status,Finish,may
 "Phyrexian Rebirth",6,"Sorcery",W,"brc","74",rare,White,Owned,Non-foil,false,,,"","",105270
 "Pacifism",2,"Enchantment - Aura",W,"mir","32",common,White,Owned,Non-foil,false,,,"","",7175
 "Banishing Light",3,"Enchantment",W,"tsr","291",special,White,Owned,Non-foil,false,,,"","",86959
-"Divine Sacrament",3,"Enchantment",W,"dmr","262",rare,White,Owned,Foil,false,,,"","",107209
 "Wedding Announcement",3,"Enchantment",W,"inr","453",rare,White,Owned,Non-foil,false,,,"","",135214
 "Faith's Fetters",4,"Enchantment - Aura",W,"rvr","307",common,White,Owned,Non-foil,false,,,"","",120191
 "Pteramander",1,"Creature - Salamander Drake",U,"rvr","317",uncommon,Blue,Owned,Non-foil,false,,,"","",120211
@@ -66,7 +66,6 @@ name,CMC,Type,Color,Set,Collector Number,Rarity,Color Category,status,Finish,may
 "Deadeye Navigator",6,"Creature - Spirit",U,"inr","492",rare,Blue,Owned,Foil,false,,,"","",135302
 "Kappa Cannoneer",6,"Artifact Creature - Turtle Warrior",U,"mh3","401",rare,Blue,Owned,Non-foil,false,,,"","",125591
 "Sharding Sphinx",6,"Artifact Creature - Sphinx",U,"brc","94",rare,Blue,Owned,Non-foil,false,,,"","",105310
-"Nulldrifter",7,"Creature - Eldrazi Elemental",,"mh3","388",rare,Blue,Owned,Non-foil,false,,,"","",125565
 "Thought Monitor",7,"Artifact Creature - Construct",U,"brc","98",rare,Blue,Owned,Non-foil,false,,,"","",105318
 "Brainstorm",1,"Instant",U,"mmq","61",common,Blue,Owned,Non-foil,false,,,"","",13157
 "High Tide",1,"Instant",U,"dmr","286",uncommon,Blue,Owned,Non-foil,false,,,"","",107257
@@ -96,7 +95,6 @@ name,CMC,Type,Color,Set,Collector Number,Rarity,Color Category,status,Finish,may
 "Silent Departure",1,"Sorcery",U,"inr","367",common,Blue,Owned,Non-foil,false,,,"","",135020
 "Tinker",3,"Sorcery",U,"ulg","45",uncommon,Blue,Owned,Non-foil,false,,,"","",12623
 "Temporal Fissure",5,"Sorcery",U,"scg","53",common,Blue,Owned,Non-foil,false,,,"","",18860
-"Rise from the Tides",6,"Sorcery",U,"inr","366",uncommon,Blue,Owned,Non-foil,false,,,"","",135018
 "Upheaval",6,"Sorcery",U,"ody","113",rare,Blue,Owned,Non-foil,false,,,"","",16811
 "Bident of Thassa",4,"Legendary Enchantment Artifact",U,"brc","80",rare,Blue,Owned,Non-foil,false,,,"","",105282
 "Dress Down",2,"Enchantment",U,"h2r","4",rare,Blue,Owned,Non-foil,false,,,"","",125531
@@ -115,6 +113,7 @@ name,CMC,Type,Color,Set,Collector Number,Rarity,Color Category,status,Finish,may
 "Bone Shredder",3,"Creature - Phyrexian Minion",B,"ulg","49",uncommon,Black,Owned,Non-foil,false,,,"","",12641
 "Fain, the Broker",3,"Legendary Creature - Human Warlock",B,"brc","105",rare,Black,Owned,Non-foil,false,,,"","",105332
 "Morbid Opportunist",3,"Creature - Human Rogue",B,"inr","388",uncommon,Black,Owned,Non-foil,false,,,"","",135062
+"Body Snatcher",4,"Creature - Phyrexian Minion",B,"dmr","298",rare,Black,Not Owned,,false,,,"","",107281
 "Grief",4,"Creature - Elemental Incarnation",B,"h2r","7",mythic,Black,Owned,Non-foil,false,,,"","",125537
 "Grim Servant",4,"Creature - Zombie Warlock",B,"mh3","409",uncommon,Black,Owned,Foil,false,,,"","",125607
 "Ravenous Chupacabra",4,"Creature - Beast Horror",B,"pw23","10",rare,Black,Owned,Foil,false,,,"","",
@@ -137,7 +136,6 @@ name,CMC,Type,Color,Set,Collector Number,Rarity,Color Category,status,Finish,may
 "Terror",2,"Instant",B,"cei","131",common,Black,Owned,Non-foil,false,,,"","",
 "Ultimate Price",2,"Instant",B,"rvr","329",uncommon,Black,Owned,Non-foil,false,,,"","",120235
 "Flare of Malice",4,"Instant",B,"mh3","408",rare,Black,Owned,Non-foil,false,,,"","",125605
-"Dark Withering",6,"Instant",B,"dmr","301",uncommon,Black,Owned,Non-foil,false,,,"","",107287
 "Bone Shards",1,"Sorcery",B,"mh2","395",common,Black,Owned,Foil,false,,,"","",91063
 "Crawl from the Cellar",1,"Sorcery",B,"inr","376",common,Black,Owned,Non-foil,false,,,"","",135038
 "Duress",1,"Sorcery",B,"dmr","303",common,Black,Owned,Non-foil,false,,,"","",107291
@@ -255,6 +253,7 @@ name,CMC,Type,Color,Set,Collector Number,Rarity,Color Category,status,Finish,may
 "Steel Hellkite",6,"Artifact Creature - Dragon",,"brc","163",rare,Colorless,Owned,Non-foil,false,,,"","",105448
 "Wurmcoil Engine",6,"Artifact Creature - Phyrexian Wurm",,"brr","63",mythic,Colorless,Owned,Non-foil,false,,,"","",104544
 "Myr Battlesphere",7,"Artifact Creature - Myr Construct",,"brc","151",rare,Colorless,Owned,Non-foil,false,,,"","",105424
+"Nulldrifter",7,"Creature - Eldrazi Elemental",,"mh3","388",rare,Colorless,Owned,Non-foil,false,,,"","",125565
 "Sundering Titan",8,"Artifact Creature - Golem",,"brr","57",mythic,Colorless,Owned,Non-foil,false,,,"","",104532
 "Everflowing Chalice",0,"Artifact",,"tsr","394",special,Colorless,Owned,Non-foil,false,,,"","",87165
 "Mishra's Bauble",0,"Artifact",,"brr","97",uncommon,Colorless,Owned,Non-foil,false,,,"","",104360
@@ -263,6 +262,7 @@ name,CMC,Type,Color,Set,Collector Number,Rarity,Color Category,status,Finish,may
 "Soul-Guide Lantern",1,"Artifact",,"brr","54",uncommon,Colorless,Owned,Non-foil,false,,,"","",104526
 "Wayfarer's Bauble",1,"Artifact",,"brc","171",common,Colorless,Owned,Non-foil,false,,,"","",105464
 "Elsewhere Flask",2,"Artifact",,"brr","15",uncommon,Colorless,Owned,Non-foil,false,,,"","",104448
+"Fellwar Stone",2,"Artifact",,"brc","141",uncommon,Colorless,Not Owned,,false,,,"","",105404
 "Ichor Wellspring",2,"Artifact",,"brc","143",uncommon,Colorless,Owned,Non-foil,false,,,"","",105408
 "Liquimetal Torque",2,"Artifact",,"brc","145",uncommon,Colorless,Owned,Non-foil,false,,,"","",105412
 "Mazemind Tome",2,"Artifact",,"brr","30",rare,Colorless,Owned,Non-foil,false,,,"","",104478
